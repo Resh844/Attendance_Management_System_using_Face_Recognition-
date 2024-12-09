@@ -29,14 +29,21 @@ The **Attendance Management System** is a Python-based application that leverage
 ## Installation
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/attendance-management-system.git
-cd attendance-management-system
+```Command Prompt
+https://github.com/Resh844/Attendance_Management_System_using_Face_Recognition-.git
+```
+
+### Creating Python Environment
+Create a new python environment in order to  install the packages
+```
+Type the command in the VSC Terminal:  python -m venv venv
+Activate the environment:  venv\Scripts\activate
+
 ```
 
 ### 2. Install Required Packages
 Ensure Python is installed on your system, then install the necessary dependencies:
-```bash
+``` 
 pip install -r requirements.txt
 ```
 
